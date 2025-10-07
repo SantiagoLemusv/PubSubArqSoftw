@@ -122,4 +122,4 @@ Proyecto académico desarrollado para la materia Arquitectura de Software, demos
 
 ## 📝 Licencia
 Este proyecto se distribuye bajo la licencia MIT.
-Puedes usarlo, modificarlo y distribuirlo libremente dando crédito al autor original.
+Puedes usarlo, modificarlo y distribuirlo libremente dando crédito al autor original (Jorge Martinez.)
